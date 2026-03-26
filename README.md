@@ -27,28 +27,21 @@ I am a passionate AI/ML enthusiast currently pursuing B.Tech in Computer Science
 
 ## 📂 Projects
 
-### 🛍️ AI Chatbot for E-commerce
+🧠 1. Agentic RAG
+Combines LLM + Retrieval + Agents
 
-* Built an AI chatbot that recommends dresses based on user input
-* Integrated with frontend for real-time suggestions
+✅ 2. Chatbot using OpenAI
+Shows: LLM integration, APIs, real-world AI
+VERY HIGH demand skill
+Add: memory, context, UI (Streamlit)
 
-### 🎥 AI YouTube Shorts Generator
-
-* Generates short videos with AI voice narration (Hindi)
-* Includes subtitles and engaging content
-
-### 📊 Machine Learning Models
-
-* Built multiple ML models for prediction & classification tasks
-* Worked on real datasets to improve accuracy
+✅ 6. E-Commerce Data Analysis (Power BI)
+Shows: business + data skills
+Important for:
+Data Analyst / ML roles
 
 ---
 
-## 📈 GitHub Stats
-
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-
----
 
 ## 🌱 Currently Learning
 
